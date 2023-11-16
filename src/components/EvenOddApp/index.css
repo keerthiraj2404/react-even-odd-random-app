@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  background-size: cover;
+  font-family: Roboto;
+  height: 100vh;
+  align-content: center;
+}
+
+.heading {
+  color: #0f172a;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.is-even-odd {
+  color: #334155;
+  font-size: 22px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.button {
+  font-size: 16px;
+  background-color: #ffffff;
+  color: #1e293b;
+  text-align: center;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.button-label {
+  color: #1e293b;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+}
